@@ -1,0 +1,142 @@
+Question,Label
+List two reference parameters in the setHour function,Knowledge
+"Explain briefly the meaning of the following terms: Demography, Consumer sales promotion , and Media mix",Knowledge
+Label the parts of the diagram,Knowledge
+"Based on the above dataType class, list all the function members",Knowledge
+Define morphology,Knowledge
+Define Method in JAVA.,Knowledge
+Define Inheritance concept,Knowledge
+What is Encapsulation ?,Knowledge
+Name the authors of...?,Knowledge
+List the fractions you know and can show….,Knowledge
+List the __________________ in descending order,Knowledge
+List the attributes of the following shape.,Knowledge
+List two local variables in the main function,Knowledge
+List the data members,Knowledge
+List important information you can remember from lesson….,Knowledge
+Make a list of the main events of the story.,Knowledge
+Memorize and recall the periodic table,Knowledge
+Memorize the multiplication facts,Knowledge
+Memorize the meaning of … ,Knowledge
+Name three 19th-century women English authors.,Knowledge
+Name all the characters in the story.,Knowledge
+Name five cities in US.,Knowledge
+Recall the main components of the flowchart,Knowledge
+Recall four facts from the story,Knowledge
+What do you recall ...?,Knowledge
+What is the definition of the following terms…,Knowledge
+Can you explain what is happening . . . what is meant . . .? ,Comprehension
+Class Facility is an abstract class. Explain what this means,Comprehension
+Draw a diagram explaining how air pressure affects the weather.,Comprehension
+Describe how interest rates affect the economy,Comprehension
+Explain what is happening in the first picture of the story.,Comprehension
+Explain why the story has the title that it does.,Comprehension
+Explain how the heart is like a pump.,Comprehension
+Explain what is happening...,Comprehension
+Explain what is meant.,Comprehension
+Explain in one sentence what the method incFromN does,Comprehension
+How would you explain...?,Comprehension
+How would you express ________________?,Comprehension
+How can you describe _____________?,Comprehension
+How would you classify the type of ...?,Comprehension
+How can you explain what is meant ...?,Comprehension
+Draw a flowchart to accept a number and output its factorial.example 1: input 5 -> 5! = 5x4x3x2x1 -> output 120 ,Comprehension
+Identify the key points in the text ,Comprehension
+Identify three mistakes from the passage and correct them.,Comprehension
+State in your own words ...,Comprehension
+State in one word ...,Comprehension
+Put in your own words…,Comprehension
+What is the difference between atomic and molecular mass?,Comprehension
+"In your own words, tell what the story is about.",Comprehension
+Design or sketch a marketing strategy for your product using a known strategy as a model.,Application
+Sketch an experiment to see how plants grow in different kinds of soil.,Application
+Sketch a diagram which shows these fractions or take photographs of the fractions. ,Application
+"Demonstrate and illustrate measures of central tendency and dispersion, write a journal entry. ",Application
+Interpret the graph and state how many trees were cut down to produce paper.,Application
+How does the law of supply and demand explain the current increase in the price of fruit?,Application
+Predict what would happen if ...,Application
+Write a textbook about this topic for others.,Application
+Write what you might have done.,Application
+Write an explanation about this topic for others,Application
+Write a C++ statement to declare a variable of type musicType name MyTune.,Application
+Draw an illustration of the linked list after the execution of each of the statement below. (Use the original illustration for each question).,Application
+Write the definition of displaySize() method for each class,Application
+Suggest a way to deal with this scenario,Application
+Choose the best statements that apply ...,Application
+Analyze the selected information.,Analysis
+Can you discriminate the difference parts . . . ? ,Analysis
+Discriminate the pros and cons of ____.,Analysis
+Analyze the following questionnaire. ,Analysis
+How can you categorize ____ according to...?,Analysis
+How can you distinguish the different parts of_____?,Analysis
+How can you differentiate between...?,Analysis
+"Discriminate the different parts of the story (introduction, development, climax, resolution.)",Analysis
+Analyze a distinction. State the point of view of . . .,Analysis
+Categorize the story into parts and think of a good title for each of the parts.,Analysis
+"Analyze a work of art in terms of form, color and texture.",Analysis
+Trace the contents of matrix from the following statements int matrix,Analysis
+Trace the value of alpha after the following code executes. ,Analysis
+What distinctions can be made about...and...?,Analysis
+What is the relationship between probability and statistical analysis?,Analysis
+What is the analysis of ______________?,Analysis
+Draw a diagram to show the memory configuration after the following statements .... ,Analysis
+What has the author used to create this effect,Analysis
+Compare and contrast the two items and produce a summary of their similarities and differences,Analysis
+Develop a set of criteria for distinguishing between a good and bad example of this.,Analysis
+What evidence can you find to suggest that people should be regarded as the most important resource of an organisation?,Analysis
+"While the futures market is too risky for most investors, this risk creates the opportunities for large returns. Discuss.",Analysis
+What evidence can you list for...,Analysis
+Create several different strategies to solve a mathematical problem. ,Synthesis
+Can you propose an alternative plan to . . . ?,Synthesis
+Can you develop method to handle the following case . . . ? ,Synthesis
+Can you propose a model that would change . . . ?,Synthesis
+Can you think of an original way for collect and develop the . . . ?,Synthesis
+Develop a menu for a new healthy foods restaurant,Synthesis
+Design a scientific study to test the effect of different kinds of music on hens’ egg production.,Synthesis
+Design a building to house your study.,Synthesis
+"Design a record, book or magazine cover for...",Synthesis
+Design a new monetary system or an experiment for establishing.,Synthesis
+Create several scientific hypotheses to …,Synthesis
+Propose an alternative way to solve …  ,Synthesis
+Propose a set of alternatives for reducing dependence on fossil fuels that address both economic and environmental concerns.,Synthesis
+Rewrite the story from an animal’s point of view.,Synthesis
+"Rewrite the story briefly, but change someone or something in it. (For example, substitute a dog for a wolf in The Three Little Pigs).",Synthesis
+"Use your imagination to create a picture about the story. Then, add one new thing that was not in the story.",Synthesis
+What hypotheses can you develop based on the data ? Why ?,Synthesis
+Write a journal from the point of view of mountaineer.,Synthesis
+Write about your feelings in relation to...,Synthesis
+"Write a TV show play, puppet show, role play, song or pantomime about..",Synthesis
+Write a poem about the story.,Synthesis
+Write 5 new titles for the story that would give a good idea of what it was about,Synthesis
+Write another ending to the story that is different from the author’s ending.,Synthesis
+Write a JAVA program to show the Overloading concept,Synthesis
+Write a program that uses nested loops to print the following output:,Synthesis
+"Write a program to calculate the SQRT for Array elements, you may use the Math class function (sqrt), the Array should include 5 Integer elements. The output should be the array elements along with their SQRT value.",Synthesis
+Create an advertising campaign,Synthesis
+Construct an alternative way to ...,Synthesis
+Devise a different way of using ,Synthesis
+Merge the different ideas into a single solution.,Synthesis
+Can you defend your position about ... ?,Evaluation 
+Can you assess the value or importance of . . . ?,Evaluation 
+What limitation does X have? ,Evaluation 
+Develop a proof ... and justify each step ... ,Evaluation 
+"""Don’t use public instance variables"" is defensive programming techniques. discuss why it is good advice?",Evaluation 
+How would you justify . . . ?,Evaluation 
+Judge the value of... What do you think about...?,Evaluation 
+Judge how well a project meets the criteria of a rubric.,Evaluation 
+Judge the validity of arguments for and against astrology,Evaluation 
+Justify the concept of inheritance and give the sample of code to illustrate your answer.,Evaluation 
+Justify the object oriented programming concept,Evaluation 
+"Prepare a case to present, and evaluate your view about ...",Evaluation 
+Prepare a list of criteria to judge ... Evaluate expressions,Evaluation 
+Rate the following recommendations and set the priority _____.,Evaluation 
+What data was used to evaluate ____________?,Evaluation 
+What judgments can you make about...? ,Evaluation 
+What criteria would you use to assess...? ,Evaluation 
+What criteria would you use to evaluate if your answer is correct?,Evaluation 
+What would you cite to defend the actions . . . ? ,Evaluation 
+Outline how class ArrayList could be implemented using an array,Evaluation 
+Can you justify the decisions you have made ? ,Evaluation 
+How would you rank the items given the criteria ?,Evaluation 
+"Your advice has been sought to settle the following dispute in Company X. Referring to appropriate legal principles, write a short report advising the company on the best course of action to adopt.",Evaluation 
+What criticisms could you make ?,Evaluation 
